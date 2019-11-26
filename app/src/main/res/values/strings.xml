@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="backward"><![CDATA[<<]]></string>
+    <string name="songName">SongName</string>
+    <string name="artistName">Artist</string>
+    <string name="pausePlay">||</string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="albumart">AlbumArt</string>
+</resources>
